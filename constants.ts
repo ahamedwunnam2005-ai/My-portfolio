@@ -6,7 +6,7 @@ export const PORTFOLIO_DATA: PortfolioData = {
   title: "Software Engineering Student",
   bio: "Aspiring software engineer currently in Level 200 at Ghana Communication Technology University. I am passionate about full-stack development, algorithmic problem solving, and the integration of AI into modern web applications. Currently building a solid foundation in software architecture and modern development tools.",
   email: "ahamedsalim2005@gmail.com",
-  github: "https://github.com/AhmedSalim",
+  github: "https://github.com/ahamedwunnam2005-ai",
   linkedin: "https://www.linkedin.com/in/ahamed-salim-759214372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   education: [
     {
@@ -23,7 +23,7 @@ export const PORTFOLIO_DATA: PortfolioData = {
       description: "A responsive and interactive portfolio built to showcase academic achievements and technical skills using React and Tailwind CSS.",
       tags: ["React", "TypeScript", "Tailwind"],
       imageUrl: "https://picsum.photos/seed/portfolio/600/400",
-      githubUrl: "https://github.com/AhmedSalim",
+      githubUrl: "https://github.com/ahamedwunnam2005-ai",
       category: "Coding"
     },
     {
@@ -32,7 +32,7 @@ export const PORTFOLIO_DATA: PortfolioData = {
       description: "A research-focused project exploring basic neural network implementations for pattern recognition in small datasets.",
       tags: ["Python", "TensorFlow", "Research"],
       imageUrl: "https://picsum.photos/seed/ai/600/400",
-      githubUrl: "https://github.com/AhmedSalim",
+      githubUrl: "https://github.com/ahamedwunnam2005-ai",
       category: "Research"
     },
     {

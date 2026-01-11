@@ -253,7 +253,7 @@ const App: React.FC = () => {
                 </div>
                 <h4 className="text-lg font-bold text-slate-900 mb-2">GitHub</h4>
                 <p className="text-slate-500 text-sm mb-4">View my source code</p>
-                <span className="text-blue-600 font-semibold text-sm">AhmedSalim</span>
+                <span className="text-blue-600 font-semibold text-sm">ahamedwunnam2005-ai</span>
               </a>
 
               <a 
